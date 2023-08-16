@@ -1,0 +1,10 @@
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\bin\Debug\netstandard2.1\RedisExampleApp.Cache.deps.json
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\bin\Debug\netstandard2.1\RedisExampleApp.Cache.dll
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\bin\Debug\netstandard2.1\RedisExampleApp.Cache.pdb
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.AssemblyInfoInputs.cache
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.AssemblyInfo.cs
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.dll
+C:\Users\rhakc\source\repos\RedisExampleApp.API\RedisExampleApp.Cache\obj\Debug\netstandard2.1\RedisExampleApp.Cache.pdb
